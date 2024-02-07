@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
     taskText: {
       fontSize: 16,
     },
-  });
+});
 
 export default ToDoList;
